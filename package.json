@@ -1,0 +1,10 @@
+{
+    "name": "@aricma/eslint-config",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "author": "aricma <adrian@aricma.com>",
+    "license": "MIT",
+    "peerDependencies": {
+        "eslint": ">= 7"
+    }
+}
