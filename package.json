@@ -1,6 +1,6 @@
 {
     "name": "@aricma/eslint-config",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "src/index.js",
     "author": "aricma <adrian@aricma.com>",
     "repository": "git@github.com:aricma/eslint-config.git",
