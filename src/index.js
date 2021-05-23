@@ -1,7 +1,6 @@
-modules.exports = {
+module.exports = {
     "extends": [
-        "react-app",
-        "react-app/jest",
+        "eslint:recommended",
     ],
     "plugins": ["unused-imports"],
     "rules": {

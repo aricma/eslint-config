@@ -5,7 +5,8 @@
     "author": "aricma <adrian@aricma.com>",
     "repository": "git@github.com:aricma/eslint-config.git",
     "peerDependencies": {
-        "eslint": ">= 7"
+        "eslint": ">= 7",
+        "eslint-plugin-unused-imports": ">= 1.1.1"
     },
     "keywords": [
         "aricma",
